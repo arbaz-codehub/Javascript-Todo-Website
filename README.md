@@ -1,5 +1,7 @@
 # Javascript To-Do Website
 
+![Modern Todo App](project3.png)
+
 ## Overview
 The Glasmorphism To-Do Website is built using JavaScript, HTML, and CSS. It offers a visually appealing interface with a glassmorphism design style. The app allows users to add, complete, and delete tasks while providing a clean and responsive user experience. It also includes validation to ensure that users enter a task before attempting to add it.
 
